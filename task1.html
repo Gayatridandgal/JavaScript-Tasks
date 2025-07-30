@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .changed {
+            color: red;
+        }
+    </style>
+</head>
+<body>
+    <h1>Hello everyone.....</h1>
+    <h3>Click on button to see the change in paragraph text</h3>
+    <button id="changeBtn">Click me</button>
+    <p id="textPara">Hello there! On clicking the button you will see the change in the color of me</p>
+    <script>
+        document.getElementById('changeBtn').addEventListener('click', function() {
+            document.getElementById('textPara').classList.toggle('changed');
+        });
+    </script>
+</body>
+</html>
