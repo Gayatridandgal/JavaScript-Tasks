@@ -6,7 +6,7 @@ function calculateArea() {
 }
 
 // Calculates the age
-function calculateAge() {
+function calculateAge() { 
     let currentYear = 2023, birthYear = 2000;
     let age = currentYear - birthYear;
     console.log("You are " + age + " years old.");
