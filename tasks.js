@@ -5,6 +5,12 @@ function calculateArea() {
     console.log("Area of rectangle is: " + area);
 }
 
+// Calculates the age
+function calculateAge() {
+    let currentYear = 2023, birthYear = 2000;
+    let age = currentYear - birthYear;
+    console.log("You are " + age + " years old.");
+}
 
 
 // Analyzes a string
