@@ -6,18 +6,6 @@ JavaScript is a powerful language for building dynamic and responsive websites �
 
 ---
 
-## 📁 Files Overview
-
-- **`task1.html`**: 🎨 Click a button to change paragraph color — intro to DOM manipulation.
-- **`tasks.js`**: 🔧 A collection of JS functions:
-  - Calculate age & rectangle area 📏
-  - Analyze strings 🔍
-  - Manipulate arrays and sets 🧮
-  - Reverse strings 🔄
-  - Perform calculator operations ➕➖✖️➗
-  - Work with Promises and `async/await` ⚡
-
----
 
 ## 📚 What I Learned
 
