@@ -1,10 +1,5 @@
 
 
-# 🎯 JavaScript Tasks 
-
-JavaScript is a powerful language for building dynamic and responsive websites 🌐✨. This repository showcases my hands-on practice with core JS concepts through interactive mini-projects and function-based tasks.
-
----
 
 ## 📁 Files Overview
 
